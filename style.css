@@ -48,6 +48,7 @@ p {
   border-radius: 6px;
   border: none;
   outline: none;
+  cursor: pointer;
 }
 .mainBtn:hover {
   background-color: purple;
@@ -153,6 +154,7 @@ p {
   border-radius: 6px;
   border: none;
   outline: none;
+  cursor: pointer;
 }
 /* mindSet-section style end */
 
@@ -261,5 +263,6 @@ p {
   outline: none;
   margin-top: 15px;
   text-transform: uppercase;
+  cursor: pointer;
 }
 /* footer-section style emd */
